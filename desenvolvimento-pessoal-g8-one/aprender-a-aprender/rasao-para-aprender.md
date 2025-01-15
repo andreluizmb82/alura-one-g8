@@ -45,6 +45,8 @@ Em ordem de prioridade:
   - [ ] Subir os microservisos do agente e do banco de dados para uma VPS;
   - [ ] Testa o projeto em produção (Buscar um parceiro que aceite testar minha solução);
 - [ ] Aprender desenvolvimento back-end em Python;
+  - [ ] Aprender a criar APIs RESTful - FastAPI & SQLAlchemy;
+  - [ ] Aprender a criar APIs GraphQL - Strawberry & Ariadne;
 - [ ] Aprender a percistir dados com MySQL(MariaDB) e MongoDB;
 - [ ] Ciência de dados.
 - [ ] Conseguir um **Certificado Oracle**, por meio do Alura-ONE.
